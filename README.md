@@ -26,7 +26,7 @@ All values are calculated as: original_value × 60
 
 ## Recommended Companion Mod
 
-**[Assembler UI](https://dsp.thunderstore.io/)** - This mod displays material consumption and product output rates, also using "/ min" as the unit. Using both mods together provides a consistent experience across all rate displays in the game.
+**[Assembler UI]** - This mod displays material consumption and product output rates, also using "/ min" as the unit. Using both mods together provides a consistent experience across all rate displays in the game.
 
 ## Installation
 
@@ -37,10 +37,6 @@ Place `Unify2Min.dll` in `BepInEx/plugins`.
 - BepInEx 5.4.x
 
 ---
-
-# 统一为分钟
-
-[![GitHub](https://img.shields.io/badge/GitHub-DSP--Unify2Min-blue?logo=github)](https://github.com/your-username/DSP-Unify2Min)
 
 将游戏中传送带与分拣器的速率显示统一为「/ min」（每分钟），与制造台、矿机等设施保持一致。
 
@@ -66,7 +62,7 @@ Place `Unify2Min.dll` in `BepInEx/plugins`.
 
 ## 推荐搭配 Mod
 
-**[制造台界面优化 (Assembler UI)](https://dsp.thunderstore.io/)** - 该 mod 可显示制造台的原料消耗和产品产出速率，单位同样为「/ min」。两个 mod 一起使用可以在游戏中获得统一的速率显示体验。
+**[制造台界面优化 (Assembler UI)]** - 该 mod 可显示制造台的原料消耗和产品产出速率，单位同样为「/ min」。两个 mod 一起使用可以在游戏中获得统一的速率显示体验。
 
 ## 安装
 

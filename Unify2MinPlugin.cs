@@ -12,7 +12,7 @@ namespace Unify2Min
 	{
 		public const string PLUGIN_GUID = "com.dspmod.unify2min";
 		public const string PLUGIN_NAME = "统一为分钟 (Unify 2 Min)";
-		public const string PLUGIN_VERSION = "1.0.0";
+		public const string PLUGIN_VERSION = "1.0.1";
 
 		internal static ManualLogSource Log;
 		private static Harmony _harmony;
