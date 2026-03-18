@@ -1,6 +1,6 @@
 {
     "name": "Unify2Min",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/cat-yummi/DSP-Unify2Min",
     "description": "Unify belt/inserter rate display to per minute (/ min). 传送带与分拣器速率统一为「/ min」。",
     "dependencies": [
